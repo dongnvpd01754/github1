@@ -1,0 +1,43 @@
+.main {
+	background-color: #00F;
+	height: 786px;
+	width: 1320px;
+	border: 1px solid #000;
+	margin: 20px auto;
+	;
+}
+.header {
+	background-color: #333;
+	height: 186px;
+	width: 1320px;
+}
+.content {
+	background-color: #CCC;
+	height: 530px;
+	width: 1320px;
+	color: #00F;
+}
+.foodrt {
+	background-color: #333;
+	height: 70px;
+	width: 1320px;
+}
+.main .foodrt div {
+	font-size: 14px;
+	background-color: #333;
+	color: #FFF;
+}
+.main .header #apDiv3 table caption {
+	color: #00F;
+}
+.main .header #apDiv3 table caption {
+	color: #FFF;
+}
+.main .header #apDiv3 table tr td {
+	text-align: center;
+	color: #FFF;
+}
+.main .header table tr td {
+	color: #CCC;
+	font-size: 24px;
+}
